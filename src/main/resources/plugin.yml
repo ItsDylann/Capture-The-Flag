@@ -1,0 +1,8 @@
+name: CaptureTheFlag
+version: '${project.version}'
+main: com.lusionmc.capturetheflag.main.Capturetheflag
+api-version: 1.18
+prefix: [ Capture The Flag ]
+authors: [ Dylann7762 ]
+description: Capture The Flag Game Core
+website: lusionmc.com
