@@ -1,6 +1,7 @@
 package com.lusionmc.capturetheflag.main.manager;
 
 import com.lusionmc.capturetheflag.main.Capturetheflag;
+import com.lusionmc.capturetheflag.main.instance.Arena;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.configuration.file.FileConfiguration;
